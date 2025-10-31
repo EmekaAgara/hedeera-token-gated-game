@@ -36,7 +36,7 @@ export default function Game() {
 
   const startGame = () => {
     setGameStarted(true);
-    setTimeLeft(10);
+    setTimeLeft(120);
     setScore(0);
   };
 
