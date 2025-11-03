@@ -150,7 +150,7 @@ HEDERA_OPERATOR_KEY=302e0201...
 
 ## 🪪 Certification
 
-👉 [Certification Link](https://your-certification-link.com)
+👉 [Certification Link](https://certs.hashgraphdev.com/abc1a5ed-4cb8-4502-9956-b45653868944.pdf)
 
 ---
 
